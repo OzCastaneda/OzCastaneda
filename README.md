@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @OzCastaneda
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning html, css and JavaScript
-- 💞️ I’m looking to collaborate on projects about science, animation, and arts...
-- 📫 How to reach me angelusignis777@gmail.com
+¡Hola! Soy Oswaldo Castañeda.
+
+🌟 Acerca de mí:
+
+Tecnólogo en sistemas y desarrollador web bilingüe.
+
+Apasionado por la programación y la tecnología.
+
+🔧 Habilidades:
+
+Desarrollo web (HTML, CSS, JavaScript, etc.)
+
+Programación en múltiples lenguajes.
+
+Resolución de problemas tecnológicos con enfoque innovador.
+
+🚀 Cita favorita: "La ciencia puede divertirnos y fascinarnos, pero es la ingeniería la que cambia el mundo." - Isaac Asimov
 
 <!---
 OzCastaneda/OzCastaneda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
