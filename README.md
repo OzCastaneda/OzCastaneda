@@ -1,4 +1,4 @@
-¡Hola! Soy Oswaldo Castañeda.
+¡Hola!
 
 🌟 Acerca de mí:
 
@@ -14,7 +14,7 @@ Programación en múltiples lenguajes.
 
 Resolución de problemas tecnológicos con enfoque innovador.
 
-🚀 Cita favorita: "La ciencia puede divertirnos y fascinarnos, pero es la ingeniería la que cambia el mundo." - Isaac Asimov
+🚀"La ciencia puede divertirnos y fascinarnos, pero es la ingeniería la que cambia el mundo." - Isaac Asimov
 
 <!---
 OzCastaneda/OzCastaneda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
