@@ -27,9 +27,10 @@ Otras Herramientas
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
+## 📫 Contáctame
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/3228352645)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:angelusignis777@gmail.com)
 
-📫 Contáctame
-email angelusignis777@gmail.com
 
 
 ## 📊 Estadísticas de GitHub
