@@ -62,12 +62,8 @@
 
 ---
 
-## 🎥 (Opcional) Fondo animado
 
-Si quieres, puedes agregar un gif en la parte superior o inferior:
 
-```markdown
 <p align="center">
-  <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="100%" />
-</p>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXV3OWFhcWlkMjRwMGk1b240d20xY3d5MXA1YW4zdHpvaHJpdnM3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OWgDiFQbtizpdLewE5/giphy.gif" width="100%" /></p>
 
