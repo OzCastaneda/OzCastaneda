@@ -1,69 +1,103 @@
-<!-- Imagen samurái principal -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OzCastaneda/OzCastaneda/main/samurai-dragon-angel.png" />
-</p>
+# 🔥 Ángel de Fuego - Fullstack Developer
 
-<h1 align="center">🔥 Ángel de Fuego 🔥</h1>
-
-<p align="center">
-  <em>“El verdadero cambio empieza desde dentro.”</em><br/>
-  <strong>Desarrollador Fullstack | Samurai del Código | Visionario del Futuro</strong>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OzCastaneda&label=Vistas&color=blueviolet&style=flat-square" alt="Contador de visitas"/>
-</p>
-
----
-
-## 🌙 Acerca de mí
-
-- 🧠 Tecnólogo en sistemas y desarrollador **Fullstack** bilingüe.
-- 🧱 Apasionado por construir soluciones reales y escalables.
-- 🧘‍♂️ Filosofía, anime, autoconocimiento y fuego interno son parte de mi enfoque.
+<div align="center">
+  
+  <!-- Imagen principal -->
+  <img src="https://raw.githubusercontent.com/OzCastaneda/OzCastaneda/main/portafolioimg.png" alt="Banner" width="400"/>
+  
+  ### *"El verdadero cambio empieza desde dentro"*
+  
+  **Desarrollador Fullstack | Samurai del Código | Visionario del Futuro**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=OzCastaneda&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+  
+</div>
 
 ---
 
-## 🛠️ Habilidades
+## 🌟 Sobre Mí
 
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+Soy un **Tecnólogo en Sistemas** y **Desarrollador Fullstack** bilingüe con una pasión inquebrantable por crear soluciones tecnológicas que marquen la diferencia. Mi enfoque combina habilidades técnicas sólidas con una filosofía de crecimiento personal constante.
 
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-
-### 🗃️ Base de Datos
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### ⚙️ Herramientas
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### 🎯 Lo que me define:
+- 🚀 **Innovación**: Construyo aplicaciones escalables y eficientes
+- 🧘‍♂️ **Filosofía**: El autoconocimiento como base del desarrollo profesional
+- 🎌 **Disciplina**: Inspirado en la filosofía samurai para la excelencia en el código
+- 🌍 **Alcance Global**: Comunicación fluida en español e inglés
 
 ---
 
-## 📫 Conecta conmigo
+## 💻 Stack Tecnológico
 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+573228352645)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:angelusignis777@gmail.com)
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### Bases de Datos
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Herramientas de Desarrollo
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
 
 ---
 
-## 📈 Estadísticas GitHub
+## 📊 Estadísticas GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OzCastaneda&show_icons=true&theme=radical" alt="Oz GitHub Stats" />
-</p>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=OzCastaneda&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzCastaneda&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OzCastaneda&theme=radical&hide_border=true&background=0D1117)
+  
+</div>
 
 ---
 
+## 🌐 Conectemos
 
+<div align="center">
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXV3OWFhcWlkMjRwMGk1b240d20xY3d5MXA1YW4zdHpvaHJpdnM3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OWgDiFQbtizpdLewE5/giphy.gif" width="100%" /></p>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+573228352645)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelusignis777@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+
+</div>
+
+---
+
+## 🎯 Actualmente
+
+- 🔭 Trabajando en proyectos que combinan tecnología y propósito
+- 🌱 Aprendiendo constantemente nuevas tecnologías
+- 👯 Buscando colaborar en proyectos open source
+- 💬 Pregúntame sobre React, Node.js, o filosofía aplicada al desarrollo
+- ⚡ Dato curioso: Encuentro inspiración en el anime y la filosofía oriental
+
+---
+
+<div align="center">
+  
+  ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+  
+  **"El código no es solo instrucciones para las máquinas, es poesía para los desarrolladores"**
+  
+</div>
 
