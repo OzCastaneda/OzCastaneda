@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Main Image -->
- <img src="https://raw.githubusercontent.com/OzCastaneda/OzCastaneda/main/portafolioimg1.png" alt="Banner" width="400"/>
+ <img src="https://raw.githubusercontent.com/OzCastaneda/OzCastaneda/main/pimg2.png" alt="Banner" width="400"/>
   
   ### *"True change starts from within"*
   
