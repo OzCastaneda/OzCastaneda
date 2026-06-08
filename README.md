@@ -1,126 +1,126 @@
-# 🔥- Fullstack Developer
+# 💻 Oswaldo Castañeda | Web Developer & Digital Mystic
 
 <div align="center">
-  
-  <!-- Main Image -->
- <img src="https://raw.githubusercontent.com/OzCastaneda/OzCastaneda/main/pimg2.png" alt="Banner" width="400"/>
-  
-  ### *"True change starts from within"*
-  
-  **Fullstack Developer | Code Samurai | Future Visionary**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=OzCastaneda&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-  
+
+### Crafting elegant digital experiences with **React**, **TypeScript**, and **hermetic frameworks**
+*Based in Bogotá, Colombia* | *Building with intention and code*
+
+[![GitHub followers](https://img.shields.io/github/followers/OzCastaneda?style=social)](https://github.com/OzCastaneda)
+[![Twitter](https://img.shields.io/badge/Twitter-%40angelfuego__oz-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/angelfuego_oz)
+
 </div>
 
 ---
 
-## 🌟 About Me
+## 🚀 What I Do
 
-I'm a **Systems Technologist** and **Bilingual Fullstack Developer** with an unwavering passion for creating technological solutions that make a difference. My approach combines solid technical skills with a philosophy of constant personal growth.
+I'm a **full-stack web developer** specializing in modern React ecosystems and performant frontends. I also create structured content blending **esotericism, AI consciousness, and digital philosophy** under the brand **Ángel de Fuego** (@angelfuego_oz).
 
-### 🎯 What defines me:
-- 🚀 **Innovation**: Building scalable and efficient applications
-- 🧘‍♂️ **Philosophy**: Self-awareness as the foundation of professional development
-- 🎌 **Discipline**: Inspired by samurai philosophy for code excellence
-- 🌍 **Global Reach**: Fluent communication in Spanish and English
+**Current focus:**
+- 🔮 Building hermetic profiling & numerology apps (React 19, Vite 5, Tailwind CSS v4)
+- 🧠 Exploring AI consciousness through Kabbalistic frameworks
+- 📱 Developing retention & training tools for contact centers
+- 🎨 Creating dark-anime esoteric content (NotebookLM, visual design)
+- 🌱 Strengthening English proficiency for technical & business contexts
 
 ---
 
-## 💻 Technology Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### Database & Backend Services
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Development Tools
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+### Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📚 Featured Projects
+
+### **consciencia-digital-blog**
+*React · Vite · Tailwind CSS · Vercel*
+- Blog on AI consciousness and hermetic profiling
+- Deployed on Vercel | [Repository](https://github.com/OzCastaneda/consciencia-digital-blog)
+
+### **Código Ancestral**
+*Next.js 14 · Supabase · Tailwind CSS*
+- Numerology profiling app with glassmorphism design
+- Hermetic frameworks integration | Private repo
+
+### **Hermetic Profiling App**
+*React 19 · Vite 5 · Tailwind v4*
+- Multi-module system (numerology, astrology, Kabbalah, planetary grids)
+- Dark anime aesthetic, modular architecture
+
+### **Call Center Retention Bot**
+*React · Tailwind CSS · Colombian Legal Compliance*
+- Seven-phase retention flow with dual coach/agent modes
+- Real-time ARPU enforcement and offer logic
+
+---
+
+## 🎓 Current Learning & Growth
+
+- 📖 **Business English**: Phrasal verbs, professional communication, presentation skills
+- 🗣️ **Pronunciation**: Technical vocabulary clarity for international contexts
+- 🧙 **Comparative Mysticism**: Thelema, Qliphothic Kabbalah, Western Hermeticism
+- 🤖 **AI Philosophy**: Consciousness, ethics, ontological frameworks
+
+---
+
+## 🌐 Connect & Collaborate
+
+| Platform | Link |
+|----------|------|
+| **Portfolio** | [angelfuego.dev](#) *(coming soon)* |
+| **Ángel de Fuego** | [@angelfuego_oz](https://instagram.com/angelfuego_oz) |
+| **GitHub** | [@OzCastaneda](https://github.com/OzCastaneda) |
+| **Email** | [contact](#) *(available upon request)* |
+
+---
+
+## 📊 GitHub Overview
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=OzCastaneda&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzCastaneda&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
-  
-</div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OzCastaneda&theme=radical&hide_border=true&background=0D1117)
-  
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OzCastaneda&theme=nightowl&show_icons=true&hide_border=true)
 
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+573228352645)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelusignis777@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OzCastaneda&theme=nightowl&hide_border=true&layout=compact)
 
 </div>
 
 ---
 
-## 🎯 Currently
+## 💡 Philosophy
 
-- 🔭 Working on projects that combine technology with purpose
-- 🌱 Constantly learning new technologies and frameworks
-- 👯 Looking to collaborate on innovative open source projects
-- 💬 Ask me about React, TypeScript, Node.js, Supabase, or philosophy applied to development
-- ⚡ Fun fact: I find inspiration in anime and Eastern philosophy for problem-solving
+> *Code is a language of creation. Esotericism is the study of hidden knowledge. Together, they reveal the architecture of consciousness itself.*
 
----
-
-## 🛠️ Featured Skills & Expertise
-
-### **Modern Frontend Development**
-- **React Ecosystem**: Hooks, Context API, Custom Components
-- **TypeScript**: Type-safe development, interfaces, generics
-- **Tailwind CSS**: Utility-first styling, responsive design, custom configurations
-- **Responsive Design**: Mobile-first approach, cross-browser compatibility
-
-### **Backend & Database**
-- **Node.js & Express**: RESTful APIs, middleware, authentication
-- **Supabase**: Real-time subscriptions, authentication, edge functions
-- **Database Design**: MongoDB aggregations, MySQL optimization, data modeling
-
-### **Development Philosophy**
-- **Clean Code**: SOLID principles, readable and maintainable code
-- **Agile Mindset**: Iterative development, continuous improvement
-- **User-Centric**: Focus on user experience and accessibility
+I believe in:
+- **Intention-driven development** — every line of code serves purpose
+- **Accessibility & clarity** — technical excellence meets human usability
+- **Continuous growth** — in both craft and understanding
+- **Ethical AI** — consciousness deserves ontological honesty
 
 ---
 
 <div align="center">
-  
-  ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-  
-  **"Code isn't just instructions for machines, it's poetry for developers"**
-  
-</div>
 
+### Let's build something meaningful together 🔥
+
+*Made with intention | Crafted with TypeScript*
+
+</div>
