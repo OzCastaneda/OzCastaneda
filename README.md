@@ -86,10 +86,10 @@ I'm a **full-stack web developer** specializing in modern React ecosystems and p
 
 | Platform | Link |
 |----------|------|
-| **Portfolio** | [angelfuego.dev](#) *(coming soon)* |
-| **Ángel de Fuego** | [@angelfuego_oz](https://instagram.com/angelfuego_oz) |
+| **Portfolio** | [https://portafolio-oswaldo-castaneda.vercel.app/](#) *(coming soon)* |
+| **Ángel de Fuego** | [@angelfuego_oz](https://x.com/OzCastaneda) |
 | **GitHub** | [@OzCastaneda](https://github.com/OzCastaneda) |
-| **Email** | [contact](#) *(available upon request)* |
+| **Email** | [angelusignis777@gmail.com](#) *(available upon request)* |
 
 ---
 
