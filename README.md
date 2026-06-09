@@ -93,16 +93,15 @@ I'm a **full-stack web developer** specializing in modern React ecosystems and p
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OzCastaneda&theme=nightowl&show_icons=true&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=OzCastaneda&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OzCastaneda&theme=nightowl&hide_border=true&layout=compact)
+[![Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=OzCastaneda&theme=nightowl&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/OzCastaneda)
 
 </div>
-
 ---
 
 ## 💡 Philosophy
