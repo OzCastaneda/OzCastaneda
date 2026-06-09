@@ -6,7 +6,7 @@
 *Based in Bogotá, Colombia* | *Building with intention and code*
 
 [![GitHub followers](https://img.shields.io/github/followers/OzCastaneda?style=social)](https://github.com/OzCastaneda)
-[![Twitter](https://img.shields.io/badge/Twitter-%40angelfuego__oz-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/angelfuego_oz)
+[![Twitter](https://img.shields.io/badge/Twitter-%40angelfuego__oz-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/OzCastaneda)
 
 </div>
 
@@ -87,7 +87,7 @@ I'm a **full-stack web developer** specializing in modern React ecosystems and p
 | Platform | Link |
 |----------|------|
 | **Portfolio** | [https://portafolio-oswaldo-castaneda.vercel.app/](#) *(coming soon)* |
-| **Ángel de Fuego** | [@angelfuego_oz](https://x.com/OzCastaneda) |
+| **Ángel de Fuego** | [https://x.com/OzCastaneda](https://x.com/OzCastaneda) |
 | **GitHub** | [@OzCastaneda](https://github.com/OzCastaneda) |
 | **Email** | [angelusignis777@gmail.com](#) *(available upon request)* |
 
