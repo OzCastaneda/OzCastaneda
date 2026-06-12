@@ -1,49 +1,52 @@
-# 💻 Oswaldo Castañeda | Web Developer & Digital Mystic
+# 💻 Oswaldo Castañeda | Frontend Engineer & Digital Designer
 
 <div align="center">
 
-### Crafting elegant digital experiences with **React**, **TypeScript**, and **hermetic frameworks**
-*Based in Bogotá, Colombia* | *Building with intention and code*
+### Crafting High-Performance User Experiences & Digital Identity
+*Based in Bogotá, Colombia 🇨🇴 | Advanced English (B2/C1)*
 
 [![GitHub followers](https://img.shields.io/github/followers/OzCastaneda?style=social)](https://github.com/OzCastaneda)
-[![Twitter](https://img.shields.io/badge/Twitter-%40angelfuego__oz-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/OzCastaneda)
+[![Twitter](https://img.shields.io/badge/X-%40angelfuego__oz-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/OzCastaneda)
 
 </div>
 
 ---
 
-## 🚀 What I Do
+## 🚀 Professional Profile
 
-I'm a **full-stack web developer** specializing in modern React ecosystems and performant frontends. I also create structured content blending **esotericism, AI consciousness, and digital philosophy** under the brand **Ángel de Fuego** (@angelfuego_oz).
+I am a **Frontend Engineer and Professional Graphic Designer** specialized in building modern, scalable, and visually striking web ecosystems. I bridge the gap between technical logic and advanced aesthetic design, focusing heavily on clean architecture, performance, and responsive user interfaces.
 
-**Current focus:**
-- 🔮 Building hermetic profiling & numerology apps (React 19, Vite 5, Tailwind CSS v4)
-- 🧠 Exploring AI consciousness through Kabbalistic frameworks
-- 📱 Developing retention & training tools for contact centers
-- 🎨 Creating dark-anime esoteric content (NotebookLM, visual design)
-- 🌱 Strengthening English proficiency for technical & business contexts
+Beyond traditional dev, I build digital content frameworks and brand strategies under my project **Ángel de Fuego**, merging AI technology, visual content creation (dark-anime/gothic aesthetics), and structured data.
+
+**Current Focus:**
+* 🌐 **Next-Gen Frontend:** Building modular applications using React 19, Vite 5, Next.js, and Tailwind CSS v4.
+* 🎨 **UI/UX & Branding:** Creating high-contrast digital layouts, optimized vector assets, and seamless user flows.
+* 🐍 **Backend & Automation:** Expanding my stack into Python core development and secure deployment workflows.
+* 📈 **Productivity & Tech Support:** Developing tools optimized for compliance, retention, and operational training.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Ecosystem & Tech Stack
 
 <div align="center">
 
-### Frontend
+### Frontend & Design
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### Backend & Tools
+### Backend, Language & Security
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-7E1A75?style=flat&logo=snyk&logoColor=white)
 
-### Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+### DevSecOps & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 </div>
 
@@ -51,34 +54,20 @@ I'm a **full-stack web developer** specializing in modern React ecosystems and p
 
 ## 📚 Featured Projects
 
-### **consciencia-digital-blog**
-*React · Vite · Tailwind CSS · Vercel*
-- Blog on AI consciousness and hermetic profiling
-- Deployed on Vercel | [Repository](https://github.com/OzCastaneda/consciencia-digital-blog)
+### 🔮 **Hermetic Profiling Suite & Apps**
+*React 19 · Vite 5 · Tailwind v4 · Supabase*
+* Architected modular systems (**Código Ancestral** & related frameworks) utilizing complex analytical datasets (numerology, structural systems).
+* Designed a custom glassmorphism and dark aesthetic layout tailored for cross-platform visual harmony.
 
-### **Código Ancestral**
-*Next.js 14 · Supabase · Tailwind CSS*
-- Numerology profiling app with glassmorphism design
-- Hermetic frameworks integration | Private repo
+### 🤖 **Call Center Retention System**
+*React · Tailwind CSS · Business Logic Integration*
+* Developed a specialized dashboard mapping a 7-phase retention flow featuring interactive dual modes (Coach/Agent).
+* Enforced real-time ARPU calculations and financial verification compliance parameters.
 
-### **Hermetic Profiling App**
-*React 19 · Vite 5 · Tailwind v4*
-- Multi-module system (numerology, astrology, Kabbalah, planetary grids)
-- Dark anime aesthetic, modular architecture
-
-### **Call Center Retention Bot**
-*React · Tailwind CSS · Colombian Legal Compliance*
-- Seven-phase retention flow with dual coach/agent modes
-- Real-time ARPU enforcement and offer logic
-
----
-
-## 🎓 Current Learning & Growth
-
-- 📖 **Business English**: Phrasal verbs, professional communication, presentation skills
-- 🗣️ **Pronunciation**: Technical vocabulary clarity for international contexts
-- 🧙 **Comparative Mysticism**: Thelema, Qliphothic Kabbalah, Western Hermeticism
-- 🤖 **AI Philosophy**: Consciousness, ethics, ontological frameworks
+### 📝 **Consciencia Digital Blog**
+*React · Vite · Vercel Deployment*
+* A content-driven platform exploring digital philosophy, AI conceptual frameworks, and advanced system interaction.
+* [Repository](https://github.com/OzCastaneda/consciencia-digital-blog)
 
 ---
 
@@ -86,14 +75,14 @@ I'm a **full-stack web developer** specializing in modern React ecosystems and p
 
 | Platform | Link |
 |----------|------|
-| **Portfolio** | [https://portafolio-oswaldo-castaneda.vercel.app/](#) *(coming soon)* |
-| **Ángel de Fuego** | [https://x.com/OzCastaneda](https://x.com/OzCastaneda) |
-| **GitHub** | [@OzCastaneda](https://github.com/OzCastaneda) |
-| **Email** | [angelusignis777@gmail.com](#) *(available upon request)* |
+| 💼 **Professional Portfolio** | [portafolio-oswaldo-castaneda.vercel.app](https://portafolio-oswaldo-castaneda.vercel.app/) *(Coming Soon)* |
+| 🔥 **Brand & Creative Concept** | [X / Twitter (@angelfuego_oz)](https://x.com/OzCastaneda) |
+| 🐙 **GitHub Profile** | [@OzCastaneda](https://github.com/OzCastaneda) |
+| ✉️ **Inquiries** | `angelusignis777@gmail.com` |
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Git Metrics & Activity
 
 <div align="center">
 
@@ -102,24 +91,19 @@ I'm a **full-stack web developer** specializing in modern React ecosystems and p
 [![Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=OzCastaneda&theme=nightowl&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/OzCastaneda)
 
 </div>
----
-
-## 💡 Philosophy
-
-> *Code is a language of creation. Esotericism is the study of hidden knowledge. Together, they reveal the architecture of consciousness itself.*
-
-I believe in:
-- **Intention-driven development** — every line of code serves purpose
-- **Accessibility & clarity** — technical excellence meets human usability
-- **Continuous growth** — in both craft and understanding
-- **Ethical AI** — consciousness deserves ontological honesty
 
 ---
+
+## 💡 Code Philosophy
+
+> *"Code is the structural geometry of intention. When technical clarity meets precise graphic design, we reveal the real architecture of digital consciousness."*
+
+* **Purpose-driven execution:** Every line of code, pixel, and route must serve a functional purpose.
+* **Security & Longevity:** Building with robust tools (TypeScript, Snyk) to ensure scalable deployment.
+* **Continuous Evolution:** Merging engineering logic with visual and cultural exploration.
 
 <div align="center">
 
-### Let's build something meaningful together 🔥
-
-*Made with intention | Crafted with TypeScript*
+**Let's build something extraordinary together.** 🚀
 
 </div>
